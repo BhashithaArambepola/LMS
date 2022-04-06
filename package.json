@@ -1,0 +1,10 @@
+{
+  "name": "forntend",
+  "version": "1.0.0",
+  "description": "LMS frontEnd",
+  "author": "Bhashitha Arambepola <barambepola@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "admin-lte": "^3.2.0"
+  }
+}
